@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="10" fill="#0E1A2A"/>
+  <g stroke="#2FC1A1" stroke-width="2">
+    <path d="M26 20h28v28H26z"/>
+    <path d="M26 34h28M40 20v28"/>
+    <path d="M26 20l28 28M54 20L26 48"/>
+  </g>
+  <text x="70" y="34" fill="white" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">GRIDLINE</text>
+  <text x="70" y="57" fill="#AFC0D3" font-size="12" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">SYSTEMS</text>
+</svg>

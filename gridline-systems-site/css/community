@@ -1,0 +1,70 @@
+✅ HTML
+<section class="community-hero">
+  <div class="container">
+    <h1>EV & Energy Infrastructure for Communities</h1>
+    <p class="subhead">
+      Thoughtful planning and delivery of EV and energy systems for communities across British Columbia.
+    </p>
+  </div>
+</section>
+
+<section class="community-intro">
+  <div class="container">
+    <p>
+      Many communities are beginning to explore EV charging and energy infrastructure. The challenge is not just installing equipment — it is ensuring systems are planned correctly, aligned with available funding, and built to support long-term needs.
+    </p>
+    <p>
+      We work alongside communities to provide clear, practical guidance from early planning through to delivery.
+    </p>
+  </div>
+</section>
+
+<section class="community-services">
+  <div class="container">
+    <h2>How We Support Communities</h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Infrastructure Review</h3>
+        <p>Assessment of sites, power availability, and potential use cases including public, fleet, and residential charging.</p>
+      </div>
+
+      <div class="card">
+        <h3>Strategy & Planning</h3>
+        <p>Clear recommendations on system design, phasing, and scalable infrastructure aligned with community needs.</p>
+      </div>
+
+      <div class="card">
+        <h3>Funding Alignment</h3>
+        <p>Guidance on structuring projects to align with available provincial and federal funding programs.</p>
+      </div>
+
+      <div class="card">
+        <h3>Project Delivery</h3>
+        <p>Coordination of contractors and suppliers to ensure high-quality, well-executed installations.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="community-approach">
+  <div class="container">
+    <h2>Our Approach</h2>
+    <p>
+      We take a long-term view of infrastructure — ensuring systems are reliable, scalable, and appropriate for each community’s environment and priorities.
+    </p>
+    <p>
+      Our role is to simplify decisions, reduce risk, and support communities in delivering projects that work both now and in the future.
+    </p>
+  </div>
+</section>
+
+<section class="community-cta">
+  <div class="container">
+    <h2>Start the Conversation</h2>
+    <p>
+      If your community is exploring EV or energy infrastructure, we’re happy to provide an initial discussion or overview tailored to your plans.
+    </p>
+    <a href="/contact.html" class="btn">Get in Touch</a>
+  </div>
+</section>
